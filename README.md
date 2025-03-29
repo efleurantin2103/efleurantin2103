@@ -2,6 +2,11 @@
 
 Always fascinated by how technology shapes human experience while pursuing elegant solutions that harmonize form and function.
 
+## 📂 Repository Stats
+![Repo Size](https://img.shields.io/github/repo-size/efleurantin2103/efleurantin2103?style=flat&color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/efleurantin2103/efleurantin2103?style=flat&color=green)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=efleurantin2103.efleurantin2103)
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efleurantin2103&theme=flat&column=7)
 
