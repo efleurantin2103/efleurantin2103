@@ -19,5 +19,6 @@
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=efleurantin2103&theme=default&bg_color=ffffff)
 
+<!--
 ---
-⭐️ From [efleurantin2103](https://github.com/efleurantin2103)
+⭐️ From [efleurantin2103](https://github.com/efleurantin2103)-->
