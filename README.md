@@ -5,8 +5,6 @@
 <!--## 📂 Repository Stats-->
 ![Last Commit](https://img.shields.io/github/last-commit/efleurantin2103/efleurantin2103?style=flat&color=green)
 <!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=efleurantin2103.efleurantin2103)-->
-![Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=efleurantin2103)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=efleurantin2103)
 
 <!--## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efleurantin2103&theme=flat&column=7)-->
@@ -21,6 +19,9 @@
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=efleurantin2103&theme=default&bg_color=ffffff)
 
+## 📈 GitHub Contribution Insights
+![Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=efleurantin2103)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=efleurantin2103)
 <!--
 ---
 ⭐️ From [efleurantin2103](https://github.com/efleurantin2103)-->
