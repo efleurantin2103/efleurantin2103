@@ -7,7 +7,7 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=efleurantin2103.efleurantin2103)
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efleurantin2103&theme=flat&column=7)
+<!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efleurantin2103&theme=flat&column=7)-->
 
 <!--## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=efleurantin2103&show_icons=true&theme=radical)-->
@@ -25,8 +25,8 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=efleurantin2103&theme=default" />
 </picture>
 
-<!--## 💻 GitHub Contribution Insights
-![Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=efleurantin2103)-->
+## 💻 GitHub Contribution Insights
+![Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=efleurantin2103)
 <!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=efleurantin2103)-->
 <!--
 ---
