@@ -26,7 +26,6 @@
 </picture>
 
 <!--## 💻 GitHub Contribution Insights-->
-##
 ![Repository Contribution Stats](https://github-contributor-stats.vercel.app/api?username=efleurantin2103)
 <!--![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=efleurantin2103)-->
 <!--
