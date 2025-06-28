@@ -1,6 +1,6 @@
 <!--## ⟁ efleurantin2103-->
 
-Always fascinated by how technology shapes human experience while pursuing elegant solutions that harmonize form and function.
+<!--Always fascinated by how technology shapes human experience while pursuing elegant solutions that harmonize form and function.-->
 
 <!--## 📂 Repository Stats-->
 ![Last Commit](https://img.shields.io/github/last-commit/efleurantin2103/efleurantin2103?style=flat&color=green)
@@ -9,8 +9,8 @@ Always fascinated by how technology shapes human experience while pursuing elega
 <!--## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efleurantin2103&theme=flat&column=7)-->
 
-<!--## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=efleurantin2103&show_icons=true&theme=radical)-->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=efleurantin2103&show_icons=true&theme=radical)
 
 ## 📈 Top Languages
 <picture>
