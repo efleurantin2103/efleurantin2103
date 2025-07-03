@@ -1,6 +1,6 @@
 <!--## ⟁ efleurantin2103-->
 
-<!--Always fascinated by how technology shapes human experience while pursuing elegant solutions that harmonize form and function.-->
+Always fascinated by how technology shapes human experience while pursuing elegant solutions that harmonize form and function.
 
 <!--## 📂 Repository Stats-->
 ![Last Commit](https://img.shields.io/github/last-commit/efleurantin2103/efleurantin2103?style=flat&color=green)
