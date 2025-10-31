@@ -9,8 +9,8 @@
 <!--## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efleurantin2103&theme=flat&column=7)-->
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=efleurantin2103&show_icons=true&theme=radical)
+<!--## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=efleurantin2103&show_icons=true&theme=radical)-->
 
 <!--## 📈 Top Languages-->
 <picture>
