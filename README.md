@@ -20,7 +20,7 @@
 </picture>
 
 ## 🔥 Streak Stats
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=efleurantin2103&theme=default&bg_color=ffffff)-->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=efleurantin2103&theme=default&bg_color=ffffff)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=efleurantin2103&theme=dark" />
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=efleurantin2103&theme=default" />
