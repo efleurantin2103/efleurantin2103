@@ -7,11 +7,11 @@
 ![Last Commit](https://img.shields.io/github/last-commit/efleurantin2103/efleurantin2103?style=flat&color=green)
 <!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=efleurantin2103.efleurantin2103)-->
 
-<!--## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efleurantin2103&theme=flat&column=7)-->
+<!--## 🏆 GitHub Trophies-->
+<!--![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=efleurantin2103&theme=flat&column=7)-->
 
-<!--## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=efleurantin2103&show_icons=true&theme=radical)-->
+<!--## 📊 GitHub Stats-->
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=efleurantin2103&show_icons=true&theme=radical)-->
 
 <!--## 📈 Top Languages-->
 <picture>
