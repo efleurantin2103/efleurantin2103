@@ -13,11 +13,11 @@
 <!--## 📊 GitHub Stats-->
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=efleurantin2103&show_icons=true&theme=radical)-->
 
-<!--## 📈 Top Languages
+<!--## 📈 Top Languages-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=efleurantin2103&layout=compact&theme=dark&bg_color=151515" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=efleurantin2103&layout=compact&theme=default&bg_color=ffffff" />
-</picture>-->
+</picture>
 
 ## 🔥 Streak Stats
 <!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=efleurantin2103&theme=default&bg_color=ffffff)-->
