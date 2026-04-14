@@ -4,7 +4,7 @@
 
 <!--## 📂 Repository Stats-->
 ![Last Commit](https://img.shields.io/github/last-commit/efleurantin2103/efleurantin2103?dummy=456)
-![Last Commit](https://img.shields.io/github/last-commit/efleurantin2103/efleurantin2103?style=flat&color=green)
+<!--![Last Commit](https://img.shields.io/github/last-commit/efleurantin2103/efleurantin2103?style=flat&color=green)-->
 <!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=efleurantin2103.efleurantin2103)-->
 
 <!--## 🏆 GitHub Trophies
